@@ -1,0 +1,7 @@
+E:\trunk201710\students\tangliang\PartyBattle\PartyBattle\bin\Debug\PartyBattle.exe.config
+E:\trunk201710\students\tangliang\PartyBattle\PartyBattle\bin\Debug\PartyBattle.exe
+E:\trunk201710\students\tangliang\PartyBattle\PartyBattle\bin\Debug\PartyBattle.pdb
+E:\trunk201710\students\tangliang\PartyBattle\PartyBattle\obj\Debug\PartyBattle.csprojResolveAssemblyReference.cache
+E:\trunk201710\students\tangliang\PartyBattle\PartyBattle\obj\Debug\PartyBattle.csproj.CoreCompileInputs.cache
+E:\trunk201710\students\tangliang\PartyBattle\PartyBattle\obj\Debug\PartyBattle.exe
+E:\trunk201710\students\tangliang\PartyBattle\PartyBattle\obj\Debug\PartyBattle.pdb

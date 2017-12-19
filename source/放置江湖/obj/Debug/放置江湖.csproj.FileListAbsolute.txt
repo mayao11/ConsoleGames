@@ -1,0 +1,13 @@
+E:\zhuleiSVN\放置江湖\放置江湖\放置江湖\obj\Debug\放置江湖.csprojResolveAssemblyReference.cache
+E:\zhuleiSVN\放置江湖\放置江湖\放置江湖\bin\Debug\放置江湖.exe.config
+E:\zhuleiSVN\放置江湖\放置江湖\放置江湖\bin\Debug\放置江湖.exe
+E:\zhuleiSVN\放置江湖\放置江湖\放置江湖\bin\Debug\放置江湖.pdb
+E:\zhuleiSVN\放置江湖\放置江湖\放置江湖\obj\Debug\放置江湖.exe
+E:\zhuleiSVN\放置江湖\放置江湖\放置江湖\obj\Debug\放置江湖.pdb
+E:\github\ConsoleGames\Project\放置江湖\bin\Debug\放置江湖.exe.config
+E:\github\ConsoleGames\Project\放置江湖\bin\Debug\放置江湖.exe
+E:\github\ConsoleGames\Project\放置江湖\bin\Debug\放置江湖.pdb
+E:\github\ConsoleGames\Project\放置江湖\obj\Debug\放置江湖.csprojResolveAssemblyReference.cache
+E:\github\ConsoleGames\Project\放置江湖\obj\Debug\放置江湖.csproj.CoreCompileInputs.cache
+E:\github\ConsoleGames\Project\放置江湖\obj\Debug\放置江湖.exe
+E:\github\ConsoleGames\Project\放置江湖\obj\Debug\放置江湖.pdb
